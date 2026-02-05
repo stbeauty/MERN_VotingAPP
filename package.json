@@ -12,7 +12,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "@react-ssr/core": "^0.21.13",
+    "@react-ssr/core": "^0.24.0",
     "@react-ssr/express": "^0.21.13",
     "assert": "^2.0.0",
     "chalk": "^3.0.0",
